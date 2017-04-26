@@ -1,10 +1,9 @@
 <p align="center">
- 
-<h1>Project-Jarvis</h1>
+ <h1>Project-Jarvis</h1>
 <img src="https://s19.postimg.org/555dcujlf/JARVIS.png">
 <br><br>
 </p>
-[![JARVIS.png](https://s19.postimg.org/555dcujlf/JARVIS.png)](https://postimg.org/image/4fml0hj1r/)
+
 Using SpeechRecognition for doing simple tasks
 
 [![Jarvis voice commands.png](https://s19.postimg.org/65fa92tkj/Jarvis_voice_commands.png)](https://postimg.org/image/m3nzz7nsf/)
