@@ -1,7 +1,5 @@
 <p align="center">
- <h1>Project-Jarvis</h1>
-<img src="https://s19.postimg.org/555dcujlf/JARVIS.png">
-<br><br>
+  <img src="https://s19.postimg.org/555dcujlf/JARVIS.png">
 </p>
 
 Using SpeechRecognition for doing simple tasks
