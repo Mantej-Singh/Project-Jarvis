@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="http://s.4cdn.org/image/title/105.gif">
 # Project-Jarvis
 [![JARVIS.png](https://s19.postimg.org/555dcujlf/JARVIS.png)](https://postimg.org/image/4fml0hj1r/)
-
+<br><br>
+</p>
 Using SpeechRecognition for doing simple tasks
 
 [![Jarvis voice commands.png](https://s19.postimg.org/65fa92tkj/Jarvis_voice_commands.png)](https://postimg.org/image/m3nzz7nsf/)
